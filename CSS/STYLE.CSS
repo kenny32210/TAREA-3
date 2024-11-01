@@ -1,0 +1,50 @@
+
+
+    /* misiones */
+    .container {
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+        gap: 20px;
+    }
+    /* servicios */
+    .container1{
+        display: flex;
+        justify-content: flex;
+        padding: 20px;
+        gap: 20px;
+    }
+    /* caja de servivicios */
+    .caja2{
+        background-color: white; /* Fondo claro */
+        border: 1px solid white; /* Borde gris */
+        border-radius: 5px; /* Bordes redondeados */
+        padding: 10px;
+        width: 500px; /* Ancho fijo */
+    }
+    /* caja de misiones */
+    .caja {
+        background-color: #f8f9fa; /* Fondo claro */
+        border: 1px solid #dee2e6; /* Borde gris */
+        border-radius: 5px; /* Bordes redondeados */
+        padding: 20px;
+        width: 300px; /* Ancho fijo */
+    }
+    
+    
+    h2 {
+        margin-bottom: 15px; /* Espacio debajo del título */
+    }
+    
+    p {
+        color: #343a40; /* Color de texto */
+    }
+
+    /* carosel de comentarios */
+    .estrellas {
+        font-size: 24px;
+        color: #ffcc00; /* Color dorado para las estrellas */
+    }
+    
+    
+
